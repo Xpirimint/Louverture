@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Welcome to Louverture Nodes](README.md)
+* [1. What is Louverture and how does it work ?](1.-what-is-louverture-and-how-does-it-work/README.md)
+  * [1.1 What is Louverture?](1.-what-is-louverture-and-how-does-it-work/1.1-what-is-louverture.md)
+  * [1.2 - How does it actually work ?](1.-what-is-louverture-and-how-does-it-work/1.2-how-does-it-actually-work.md)
+  * [1.3 - What are the tokenomics?](1.-what-is-louverture-and-how-does-it-work/1.3-what-are-the-tokenomics.md)
+  * [1.4 - Compounding & Tier system](1.-what-is-louverture-and-how-does-it-work/1.4-compounding-and-tier-system.md)
+  * [1.5 - I have noticed that there was a wallet holding a large amount of LVT tokens](1.-what-is-louverture-and-how-does-it-work/1.5-i-have-noticed-that-there-was-a-wallet-holding-a-large-amount-of-lvt-tokens.md)
+  * [1.6 - How does Louverture differ from RING?](1.-what-is-louverture-and-how-does-it-work/1.6-how-does-louverture-differ-from-ring.md)
+  * [1.7 - Which DeFi yield protocols are currently used by Louverture Nodes ?](1.-what-is-louverture-and-how-does-it-work/1.7-which-defi-yield-protocols-are-currently-used-by-louverture-nodes.md)
+* [2. Understanding The Nodes](2.-understanding-the-nodes/README.md)
+  * [2.1 What are "nodes"?](2.-understanding-the-nodes/2.1-what-are-nodes.md)
+  * [2.2 - Managing your nodes](2.-understanding-the-nodes/2.2-managing-your-nodes.md)
+  * [2.3 - How to create a node on snowtrace without using the Louverture DApp?](2.-understanding-the-nodes/2.3-how-to-create-a-node-on-snowtrace-without-using-the-louverture-dapp.md)
+  * [2.4 How to CashOut Rewards Manually](2.-understanding-the-nodes/2.4-how-to-cashout-rewards-manually.md)
+* [3. Roadmap](3.-roadmap.md)
+* [4. Links](4.-links.md)
